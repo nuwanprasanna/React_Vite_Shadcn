@@ -1,0 +1,66 @@
+/* style.css */
+
+/* Geist Black */
+@font-face {
+    font-family: 'Geist Black';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Geist Black'), url('./gaist/Geist-Black.woff') format('woff');
+  }
+  
+  /* Geist Bold */
+  @font-face {
+    font-family: 'Geist Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Geist Bold'), url('./gaist/Geist-Bold.woff') format('woff');
+  }
+  
+  /* Geist Light */
+  @font-face {
+    font-family: 'Geist Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Geist Light'), url('./gaist/Geist-Light.woff') format('woff');
+  }
+  
+  /* Geist Medium */
+  @font-face {
+    font-family: 'Geist Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Geist Medium'), url('./gaist/Geist-Medium.woff') format('woff');
+  }
+  
+  /* Geist Regular */
+  @font-face {
+    font-family: 'Geist Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Geist Regular'), url('./gaist/Geist-Regular.woff') format('woff');
+  }
+  
+  /* Geist Thin */
+  @font-face {
+    font-family: 'Geist Thin';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Geist Thin'), url('./gaist/Geist-Thin.woff') format('woff');
+  }
+  
+  /* Geist UltraBlack */
+  @font-face {
+    font-family: 'Geist UltraBlack';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Geist UltraBlack'), url('./gaist/Geist-UltraBlack.woff') format('woff');
+  }
+  
+  /* Geist UltraLight */
+  @font-face {
+    font-family: 'Geist UltraLight';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Geist UltraLight'), url('./gaist/Geist-UltraLight.woff') format('woff');
+  }
+  
